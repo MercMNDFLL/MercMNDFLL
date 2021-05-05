@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MercMNDFLL
-- 👀 I’m interested in ...DIY projects
+- 👀 I’m interested in ...DIY projects, Soil, HiFi Audio, Casual Gamer
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Statistics
+- 💞️ I’m looking to collaborate on ... Statistics, Soil Science, Soil Measurments, Forestry, DIY Projects, Home Networking, Smart Home Device, Python Coding, R Project Coding
 - 📫 How to reach me ...
 
 <!---
